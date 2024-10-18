@@ -2,6 +2,8 @@
 
 Welcome to the official repository for the AstraGenX webpage. AstraGenX is a visionary startup dedicated to transforming industries through cutting-edge solutions in various sectors, including agriculture, space technology, healthcare, artificial intelligence and more. This repository contains the code and assets for our corporate website.
 
+![Screenshot 2024-10-13 073310](https://github.com/user-attachments/assets/631e5ace-9784-4f0b-a07b-7c33bac7e7ed)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
